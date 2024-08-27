@@ -3,8 +3,10 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-Escreva aqui os conteúdos aprendidos.
-
+Escreva aqui os conteúdos aprendido
+- STRING
+- CONCEITO DE STRING
+- EXEMPLOS
 
 
 ## Atividades desenvolvidas
