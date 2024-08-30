@@ -6,7 +6,7 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 Escreva aqui os conteúdos aprendido
 - STRING
 - CONCEITO DE STRING
-- EXEMPLOS
+- 
 
 
 ## Atividades desenvolvidas
