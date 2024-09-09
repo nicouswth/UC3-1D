@@ -37,7 +37,7 @@ let str3 = `Texto com interpolação: ${str1}`;
   
 
 ### 3. *Number*
-
+##### Number é um encapsulado que permite trabalhar com valores numéricos
 
 javascript
 let inteiro = 42;
@@ -45,6 +45,7 @@ let decimal = 3.14;
 
 
 ### 4. *Switch Case*
+##### O switch case é uma estrutura de controle utilizada em diversas linguagens de programação, como C, C++, Java e JavaScript, que permite verificar um valor contra várias condições de forma eficiente e organizada
 
 
 javascript
@@ -66,6 +67,7 @@ switch (cor) {
 
 
 ### 5. *If e Else*
+##### A estrutura de código if-else é um conceito fundamental na programação que permite que um programa tome decisões com base em condições específicas. 
 
 
 javascript
@@ -94,6 +96,7 @@ if (nota >= 90) {
 
 
 ### 6. *Prompt*
+##### o prompt de comando é um programa que emula o campo de entrada em uma tela de interface de usuário baseada em texto com a interface gráfica do usuário (IU) do Windows. 
 
 
 javascript
@@ -102,7 +105,7 @@ console.log('Olá, ${nome}!`);
 
 
 ### 7. *Concatenação*
-
+##### Concatenação é a operação de unir duas ou mais cadeias de caracteres em uma única cadeia. 
 
   javascript
   let primeiroNome = 'John';
@@ -116,3 +119,11 @@ console.log('Olá, ${nome}!`);
   let sobrenome = 'Doe';
   let nomeCompleto = `${primeiroNome} ${sobrenome}`;
   console.log(nomeCompleto); // "John Doe"
+
+atividades
+
+https://codepen.io/Nicolle-Nico/pen/wvLeMEO
+https://codepen.io/Nicolle-Nico/pen/eYwyQQW
+https://codepen.io/Nicolle-Nico/pen/dyBVyLy
+https://codepen.io/Nicolle-Nico/pen/MWMOrOq
+https://codepen.io/Nicolle-Nico/pen/eYwyQQW
